@@ -1,0 +1,8 @@
+{
+  ".CodeMirror textarea": {
+    "ctrl-shift-c": "create-code-block:main"
+  }
+
+
+}
+
