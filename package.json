@@ -1,7 +1,7 @@
 {
   "name": "create-code-block",
   "main": "./lib/create-code-block",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "You can create a code block of your common language easily.",
   "keywords": [],
   "repository": "https://github.com/ryukiyokoo1164/inkdrop-create-code-block",
